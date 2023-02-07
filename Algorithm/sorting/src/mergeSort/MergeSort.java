@@ -1,8 +1,7 @@
 package mergeSort;
 
 public class MergeSort {
-    /* Merge sort is a divide and conquer algorithm that sorts an array of
-    100 elements in ascending order.
+    /*
     * n개만큼씩 logn만큼 반복하기 때문에 O(nlogn)시간복잡도
     1. 주어진 리스트를 절반으로 분할하여 부분리스트로 나눈다.(divide)
     2. 해당 부분리스트의 길이가 1이 아니라면 1번과정을 되풀이한다.

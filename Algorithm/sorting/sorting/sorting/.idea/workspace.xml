@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f77b31a5-7d7b-411a-9ea3-744fe20d5793" name="변경" comment="MergeSort">
-      <change beforePath="$PROJECT_DIR$/src/mergeSort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mergeSort/MergeSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="f77b31a5-7d7b-411a-9ea3-744fe20d5793" name="변경" comment="MergeSort" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +16,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +40,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/HMS/IdeaProjects/Algorithm-Study/Algorithm/sorting",
     "project.structure.last.edited": "모듈",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.24712643"
   }
 }]]></component>
@@ -55,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.MergeSort">
+  <component name="RunManager" selected="JUnit.MergeSortTest.mergeSort">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="sorting" />
@@ -103,8 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.MergeSort" />
         <item itemvalue="JUnit.MergeSortTest.mergeSort" />
+        <item itemvalue="애플리케이션.MergeSort" />
         <item itemvalue="JUnit.MainTest" />
         <item itemvalue="애플리케이션.Main" />
       </list>
@@ -118,8 +116,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675676699216</updated>
-      <workItem from="1675676700354" duration="6207000" />
-      <workItem from="1675736462565" duration="18000" />
+      <workItem from="1675676700354" duration="7122000" />
     </task>
     <task id="LOCAL-00001" summary="MergeSort">
       <created>1675683623326</created>
@@ -128,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675683623326</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MergeSort">
+      <created>1675683987091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675683987091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
