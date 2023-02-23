@@ -2,9 +2,10 @@ package school;
 
 public interface StudentManager {
 
-    void addStudent(String name, double tall, String sex);
+    int addStudent(Student student);
     void sortStudent();
-    void getStudentId(int StudentId);
     void showAllStudents();
+    void showWomenStudents();
+    void showMenStudents();
 
 }
