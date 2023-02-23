@@ -1,4 +1,6 @@
-package school;
+package school.studentmanager;
+
+import school.Student;
 
 public interface StudentManager {
 

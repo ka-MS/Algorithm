@@ -1,4 +1,8 @@
-package school;
+package school.studentmanager;
+
+import school.Student;
+import school.sortstudent.SortStudent;
+import school.studentrepo.StudentRepository;
 
 public class StudentManagerImpl implements StudentManager {
     private StudentRepository studentRepository;

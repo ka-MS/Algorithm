@@ -1,6 +1,9 @@
 package school;
 
 
+import school.sortstudent.SortStudentByTall;
+import school.studentmanager.StudentManagerImpl;
+
 public class School {
 
     public static void main(String[] args) {

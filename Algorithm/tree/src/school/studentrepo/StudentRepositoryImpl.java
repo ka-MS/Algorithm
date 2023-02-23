@@ -1,4 +1,7 @@
-package school;
+package school.studentrepo;
+
+import school.Gender;
+import school.Student;
 
 import java.util.ArrayList;
 import java.util.HashSet;

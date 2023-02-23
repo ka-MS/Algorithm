@@ -1,4 +1,6 @@
-package school;
+package school.studentrepo;
+
+import school.Student;
 
 import java.util.List;
 

@@ -1,4 +1,6 @@
-package school;
+package school.compare;
+
+import school.Student;
 
 import java.util.Comparator;
 import java.util.List;

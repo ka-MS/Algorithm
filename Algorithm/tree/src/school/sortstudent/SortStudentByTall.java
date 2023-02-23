@@ -1,4 +1,8 @@
-package school;
+package school.sortstudent;
+
+import school.studentrepo.StudentRepository;
+import school.compare.CompareByTall;
+import school.compare.CompareType;
 
 public class SortStudentByTall implements SortStudent {
     private CompareType compareType = new CompareByTall();

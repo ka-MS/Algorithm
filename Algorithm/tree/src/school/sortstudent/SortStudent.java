@@ -1,6 +1,6 @@
-package school;
+package school.sortstudent;
 
-import java.util.List;
+import school.studentrepo.StudentRepository;
 
 public interface SortStudent {
 //    void sortStudent(List<Student> studentsMan, List<Student> studentsWoman, List<Student> students);
